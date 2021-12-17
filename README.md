@@ -2,7 +2,7 @@
 - 👀 I’m interested in ['DevOps', 'Coding', 'Infrastructure', 'RPG games']
 - 🌱 I’m currently learning ['Golang', 'Rust', 'JavaScript']
 - 💞️ I’m looking to collaborate on ['Anything']
-- 📫 How to reach me: check my email.
+- 📫 How to reach me: <Phillip.Dudley@BlueKC.com>.
 
 <!---
 filbotblue/filbotblue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
